@@ -1,5 +1,5 @@
-# sso-poc
- POC for single sign on 
+# SSO-POC
+ POC for single sign on Asp.net Framework
 
 ## How to do
 
