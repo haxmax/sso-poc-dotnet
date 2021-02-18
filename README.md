@@ -20,5 +20,7 @@ https://github.com/aspnet/DataProtection/tree/master/samples
 ### Hosting Asp.net core in Web Farm
 https://docs.microsoft.com/en-us/aspnet/core/host-and-deploy/web-farm?view=aspnetcore-5.0
 
+https://docs.microsoft.com/en-us/aspnet/core/security/data-protection/compatibility/replacing-machinekey?view=aspnetcore-5.0
+
 
 
