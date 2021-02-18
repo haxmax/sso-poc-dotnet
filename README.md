@@ -17,7 +17,7 @@ Data protection API can be used in Asp.net Core Application
 Some samples can be found.
 https://github.com/aspnet/DataProtection/tree/master/samples
 
-## Hosting Asp.net core in Web Farm
+### Hosting Asp.net core in Web Farm
 https://docs.microsoft.com/en-us/aspnet/core/host-and-deploy/web-farm?view=aspnetcore-5.0
 
 
