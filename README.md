@@ -11,5 +11,11 @@ Using same machine key in web.config of both application.
 2. Run both the application
 3. Same login will be detected. 
 
+## In Asp.net Core Application
+Data protection API can be used in Asp.net Core Application
+
+Some samples can be found.
+https://github.com/aspnet/DataProtection/tree/master/samples
+
 
 
